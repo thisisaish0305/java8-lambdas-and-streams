@@ -1,0 +1,3 @@
+Method references, as the name suggests are the references to a method.
+They are similar to object references.
+As we can have reference to an object, we can have reference to a method as well.
